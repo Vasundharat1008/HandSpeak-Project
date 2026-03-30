@@ -24,10 +24,6 @@ Many people with hearing impairments face communication barriers. This project h
 - Real-time translation of hand gestures to speech  
 - Confusion matrix analysis for model evaluation
 
-## Screenshots
-- ![Confusion Matrix](screenshots/confusion_matrix.png)  
-- ![Real-time Demo](screenshots/gesture_demo.png)
-
 ## How to Run
 1. Install required Python packages  
 2. Run `model_training.ipynb` to see training & evaluation  
